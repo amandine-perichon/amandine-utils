@@ -1,7 +1,7 @@
 {
   "name": "amandine-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "Utility tool - assignment for dev academy Auckland",
   "main": "index.js",
   "directories": {
     "test": "test"
